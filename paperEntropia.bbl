@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{Shannon}
+Claude~Elwood Shannon.
+\newblock A mathematical theory of communication.
+\newblock {\em ACM SIGMOBILE Mobile Computing and Communications Review},
+  5(1):3--55, 1948.
+
+\bibitem{Jaynesfull}
+Edwin~Thompson Jaynes.
+\newblock {\em ET Jaynes: Papers on probability, statistics, and statistical
+  physics}, volume~50.
+\newblock Springer, 1989.
+
+\bibitem{Gregory}
+Phil Gregory.
+\newblock {\em Bayesian logical data analysis for the physical sciences},
+  volume~10.
+\newblock Cambridge University Press Cambridge, 2005.
+
+\bibitem{sivia}
+Devinderjit Sivia and John Skilling.
+\newblock {\em Data analysis: a Bayesian tutorial}.
+\newblock Oxford University Press, USA, 2006.
+
+\bibitem{Jaynes3}
+Edwin~T Jaynes.
+\newblock Information theory and statistical mechanics.
+\newblock {\em Physical review}, 106(4):620, 1957.
+
+\bibitem{Inadequacy}
+vaslav Brukner and Anton Zeilinger.
+\newblock Conceptual inadequacy of the shannon information in quantum
+  measurements.
+\newblock {\em Physical Review A}, 63(2):022113, 2001.
+
+\bibitem{Tsallis2}
+Constantino Tsallis.
+\newblock Possible generalization of boltzmann-gibbs statistics.
+\newblock {\em Journal of statistical physics}, 52(1-2):479--487, 1988.
+
+\bibitem{Tsallis3}
+Evaldo~MF Curado and Constantino Tsallis.
+\newblock Generalized statistical mechanics: connection with thermodynamics.
+\newblock {\em Journal of Physics A: Mathematical and General}, 24(2):L69,
+  1991.
+
+\bibitem{Tsallis1}
+Constantino Tsallis.
+\newblock {\em Introduction to nonextensive statistical mechanics: approaching
+  a complex world}.
+\newblock Springer, 2009.
+
+\bibitem{Gellmann}
+Murray Gell-Mann and Constantino Tsallis.
+\newblock Nonextensive entropy-interdisciplinary applications.
+\newblock {\em Nonextensive Entropy-Interdisciplinary Applications, by Edited
+  by Murray Gell-Mann and C Tsallis, pp. 440. Oxford University Press, Apr
+  2004. ISBN-10: 0195159764. ISBN-13: 9780195159769}, 1, 2004.
+
+\bibitem{Kappur}
+Jagat~Narain Kapur and Hiremaglur~K Kesavan.
+\newblock {\em Entropy optimization principles with applications}.
+\newblock Academic Press, 1992.
+
+\bibitem{Ochs}
+W~Ochs.
+\newblock A new axiomatic characterization of the von neumann entropy.
+\newblock {\em Reports on Mathematical Physics}, 8(1):109--120, 1975.
+
+\bibitem{Csizar}
+Imre Csisz{\'a}r.
+\newblock Axiomatic characterizations of information measures.
+\newblock {\em Entropy}, 10(3):261--273, 2008.
+
+\bibitem{Characterizing}
+Bernhard Baumgartner.
+\newblock Characterizing entropy in statistical physics and in quantum
+  information theory.
+\newblock {\em arXiv preprint arXiv:1206.5727}, 2012.
+
+\bibitem{Aczel}
+J{\'a}nos Acz{\'e}l and Zolt{\'a}n Dar{\'o}czy.
+\newblock On measures of information and their characterizations.
+\newblock {\em New York}, 1975.
+
+\bibitem{Dupuis}
+Frederic Dupuis, L~Kraemer, Philippe Faist, Joseph~M Renes, and Renato Renner.
+\newblock Generalized entropies.
+\newblock {\em arXiv preprint arXiv:1211.3141}, 2012.
+
+\bibitem{Renyi}
+ALFRPED RENYI.
+\newblock On measures of entropy and information.
+\newblock In {\em Fourth Berkeley Symposium on Mathematical Statistics and
+  Probability}, pages 547--561, 1961.
+
+\bibitem{Varma}
+RS~Varma.
+\newblock Generalizations of r{\'e}nyi’s entropy of order $\alpha$.
+\newblock {\em J. Math. Sci}, 1(7):34--48, 1966.
+
+\bibitem{Kappur2}
+JN~Kapur.
+\newblock Generalized entropy of order $\alpha$ and type $\beta$.
+\newblock In {\em The Math. Seminar}, volume~4, pages 78--82, 1967.
+
+\bibitem{Sharma}
+Bhu~Dev Sharma and Inder~Jeet Taneja.
+\newblock Three generalized non-additive measures of entropy.
+\newblock {\em Elektronische Informationsverarbeitung und Kybernetik},
+  13(7/8):419--433, 1977.
+
+\bibitem{Picard}
+CF~Picard.
+\newblock Weighted probabilistic information measures.
+\newblock {\em Journal of Combinatorics, Information and System Sciences},
+  4:343--356, 1979.
+
+\bibitem{Rubiano}
+G~Rubiano.
+\newblock Topolog\'ia general.
+\newblock {\em Universidad Nacional de Colombia, Bogot\'a}, 2002.
+
+\bibitem{Janich}
+Klaus Janich.
+\newblock Topology. undergraduate texts in mathematics, 1984.
+
+\bibitem{Zeidlernonlinear}
+Eberhard Zeidler.
+\newblock {\em Nonlinear functional analysis and its applications}, volume~2.
+\newblock Springer, 1990.
+
+\bibitem{rudin}
+Walter Rudin.
+\newblock {\em Real and complex analysis (3rd)}.
+\newblock New York: McGraw-Hill Inc, 1986.
+
+\bibitem{Settheory}
+Thomas Jech.
+\newblock {\em Set theory}.
+\newblock Springer Science, 2013.
+
+\bibitem{Matlab}
+Rafael~C Gonzalez, Richard~E Woods, and Steven~L Eddins.
+\newblock {\em Digital image processing using MATLAB}, volume~2.
+\newblock Gatesmark Publishing Knoxville, 2009.
+
+\bibitem{renyisthreshold}
+Prasanna Sahoo, Carrye Wilkins, and Jerry Yeager.
+\newblock Threshold selection using renyi's entropy.
+\newblock {\em Pattern recognition}, 30(1):71--84, 1997.
+
+\bibitem{Tsallisthreshold}
+M~Portes~de Albuquerque, IA~Esquef, and AR~Gesualdi~Mello.
+\newblock Image thresholding using tsallis entropy.
+\newblock {\em Pattern Recognition Letters}, 25(9):1059--1065, 2004.
+
+\end{thebibliography}
